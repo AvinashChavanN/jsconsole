@@ -1,6 +1,6 @@
-# JSPlaygrounds
+# JSConsole
 
-[Show me the demo!](https://stephengrider.github.io/JSPlaygrounds/)
+[Show me the demo!](https://avinashchavann.github.io/jsconsole/)
 
 ### Running Locally
 

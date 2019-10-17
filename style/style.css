@@ -21,7 +21,6 @@ body {
   font-family: monospace;
   height: calc(100vh - 10px);
   color: black;
-  background: aliceblue;
 }
 
 /* PADDING */
@@ -34,7 +33,7 @@ body {
 }
 
 .CodeMirror-scrollbar-filler, .CodeMirror-gutter-filler {
-  background-color: aliceblue; /* The little square between H and V scrollbars */
+  background-color: white; /* The little square between H and V scrollbars */
 }
 
 /* GUTTER */
